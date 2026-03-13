@@ -1,0 +1,542 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbd3dba364c77414da97a96f8d6498e9, type: 3}
+  m_Name: Story
+  m_EditorClassIdentifier: 
+  SheetName: Assets/Data/SpreadsheetCache/Data.xlsx
+  WorksheetName: Story
+  dataArray:
+  - id: 10001
+    description: 
+    bg: 2001
+    character: 1001
+    text: 1000010
+    effect: 0
+    nextid: 10002
+    select1: 0
+    select1nextid: 0
+    select1effect: 
+    select2: 0
+    select2nextid: 0
+    select2effect: 
+    select3: 0
+    select3nextid: 0
+    select3effect: 
+    imagel: 6987010000000000
+    imagelm: 9588010000000000
+    imagem: 3188010000000000
+    imagerm: cd87010000000000
+    imager: 0587010001000000
+    bgm: 200001
+    sfx: 0
+    voice: 0
+    gallery: 101
+  - id: 10002
+    description: 
+    bg: 2001
+    character: 1002
+    text: 1000020
+    effect: 1
+    nextid: 10003
+    select1: 0
+    select1nextid: 0
+    select1effect: 
+    select2: 0
+    select2nextid: 0
+    select2effect: 
+    select3: 0
+    select3nextid: 0
+    select3effect: 
+    imagel: 6987010002000000
+    imagelm: 9588010000000000
+    imagem: 3188010000000000
+    imagerm: cd87010000000000
+    imager: 0587010002000000
+    bgm: 200001
+    sfx: 210001
+    voice: 220001
+    gallery: 0
+  - id: 10003
+    description: 
+    bg: 2001
+    character: 1005
+    text: 1000030
+    effect: 0
+    nextid: 10004
+    select1: 0
+    select1nextid: 0
+    select1effect: 
+    select2: 0
+    select2nextid: 0
+    select2effect: 
+    select3: 0
+    select3nextid: 0
+    select3effect: 
+    imagel: 6987010000000000
+    imagelm: 9588010003000000
+    imagem: 3188010000000000
+    imagerm: cd87010000000000
+    imager: 0587010000000000
+    bgm: 200001
+    sfx: 0
+    voice: 0
+    gallery: 0
+  - id: 10004
+    description: 
+    bg: 2001
+    character: 1004
+    text: 1000040
+    effect: 0
+    nextid: 10005
+    select1: 0
+    select1nextid: 0
+    select1effect: 
+    select2: 0
+    select2nextid: 0
+    select2effect: 
+    select3: 0
+    select3nextid: 0
+    select3effect: 
+    imagel: 6987010000000000
+    imagelm: 9588010000000000
+    imagem: 3188010001000000
+    imagerm: cd87010000000000
+    imager: 0587010000000000
+    bgm: 200001
+    sfx: 0
+    voice: 0
+    gallery: 102
+  - id: 10005
+    description: 
+    bg: 2001
+    character: 1003
+    text: 1000050
+    effect: 0
+    nextid: 10006
+    select1: 0
+    select1nextid: 0
+    select1effect: 
+    select2: 0
+    select2nextid: 0
+    select2effect: 
+    select3: 0
+    select3nextid: 0
+    select3effect: 
+    imagel: 6987010000000000
+    imagelm: 9588010000000000
+    imagem: 3188010000000000
+    imagerm: cd87010001000000
+    imager: 0587010000000000
+    bgm: 200001
+    sfx: 0
+    voice: 0
+    gallery: 0
+  - id: 10006
+    description: 
+    bg: 2001
+    character: 1001
+    text: 1000060
+    effect: 0
+    nextid: 0
+    select1: 1000061
+    select1nextid: 10007
+    select1effect: 040000000a000000
+    select2: 1000062
+    select2nextid: 10008
+    select2effect: 030000000a000000
+    select3: 0
+    select3nextid: 0
+    select3effect: 
+    imagel: 6987010000000000
+    imagelm: 9588010000000000
+    imagem: 3188010000000000
+    imagerm: cd87010001000000
+    imager: 0587010001000000
+    bgm: 200001
+    sfx: 0
+    voice: 0
+    gallery: 0
+  - id: 10007
+    description: 
+    bg: 2001
+    character: 1005
+    text: 1000070
+    effect: 1
+    nextid: 10009
+    select1: 0
+    select1nextid: 0
+    select1effect: 
+    select2: 0
+    select2nextid: 0
+    select2effect: 
+    select3: 0
+    select3nextid: 0
+    select3effect: 
+    imagel: 6987010000000000
+    imagelm: 9588010001000000
+    imagem: 3188010000000000
+    imagerm: cd87010001000000
+    imager: 0587010000000000
+    bgm: 200001
+    sfx: 210001
+    voice: 0
+    gallery: 103
+  - id: 10008
+    description: 
+    bg: 2001
+    character: 1004
+    text: 1000080
+    effect: 0
+    nextid: 10009
+    select1: 0
+    select1nextid: 0
+    select1effect: 
+    select2: 0
+    select2nextid: 0
+    select2effect: 
+    select3: 0
+    select3nextid: 0
+    select3effect: 
+    imagel: 6987010000000000
+    imagelm: 9588010000000000
+    imagem: 3188010001000000
+    imagerm: cd87010000000000
+    imager: 0587010000000000
+    bgm: 200001
+    sfx: 0
+    voice: 0
+    gallery: 0
+  - id: 10009
+    description: 
+    bg: 0
+    character: 1002
+    text: 1000090
+    effect: 2
+    nextid: 10010
+    select1: 0
+    select1nextid: 0
+    select1effect: 
+    select2: 0
+    select2nextid: 0
+    select2effect: 
+    select3: 0
+    select3nextid: 0
+    select3effect: 
+    imagel: 6987010001000000
+    imagelm: 9588010000000000
+    imagem: 3188010000000000
+    imagerm: cd87010000000000
+    imager: 0587010000000000
+    bgm: 200002
+    sfx: 0
+    voice: 0
+    gallery: 0
+  - id: 10010
+    description: 
+    bg: 2002
+    character: 1001
+    text: 1000100
+    effect: 2
+    nextid: 10011
+    select1: 0
+    select1nextid: 0
+    select1effect: 
+    select2: 0
+    select2nextid: 0
+    select2effect: 
+    select3: 0
+    select3nextid: 0
+    select3effect: 
+    imagel: 6987010000000000
+    imagelm: 9588010000000000
+    imagem: 3188010000000000
+    imagerm: cd87010000000000
+    imager: 0587010001000000
+    bgm: 200002
+    sfx: 0
+    voice: 220001
+    gallery: 104
+  - id: 10011
+    description: 
+    bg: 2002
+    character: 1003
+    text: 1000110
+    effect: 0
+    nextid: 10012
+    select1: 0
+    select1nextid: 0
+    select1effect: 
+    select2: 0
+    select2nextid: 0
+    select2effect: 
+    select3: 0
+    select3nextid: 0
+    select3effect: 
+    imagel: 6987010000000000
+    imagelm: 9588010000000000
+    imagem: 3188010000000000
+    imagerm: cd87010001000000
+    imager: 0587010000000000
+    bgm: 200002
+    sfx: 0
+    voice: 0
+    gallery: 0
+  - id: 10012
+    description: 
+    bg: 2002
+    character: 1002
+    text: 1000120
+    effect: 0
+    nextid: 10013
+    select1: 0
+    select1nextid: 0
+    select1effect: 
+    select2: 0
+    select2nextid: 0
+    select2effect: 
+    select3: 0
+    select3nextid: 0
+    select3effect: 
+    imagel: 6987010001000000
+    imagelm: 9588010000000000
+    imagem: 3188010000000000
+    imagerm: cd87010000000000
+    imager: 0587010000000000
+    bgm: 200002
+    sfx: 0
+    voice: 0
+    gallery: 0
+  - id: 10013
+    description: 
+    bg: 2001
+    character: 1001
+    text: 1000130
+    effect: 2
+    nextid: 10014
+    select1: 0
+    select1nextid: 0
+    select1effect: 
+    select2: 0
+    select2nextid: 0
+    select2effect: 
+    select3: 0
+    select3nextid: 0
+    select3effect: 
+    imagel: 6987010000000000
+    imagelm: 9588010000000000
+    imagem: 3188010000000000
+    imagerm: cd87010000000000
+    imager: 0587010001000000
+    bgm: 200001
+    sfx: 0
+    voice: 0
+    gallery: 105
+  - id: 10014
+    description: 
+    bg: 2001
+    character: 1004
+    text: 1000140
+    effect: 0
+    nextid: 0
+    select1: 1000141
+    select1nextid: 10015
+    select1effect: 040000000a000000
+    select2: 1000142
+    select2nextid: 10016
+    select2effect: 030000000a000000
+    select3: 1000143
+    select3nextid: 10017
+    select3effect: 020000000a000000
+    imagel: 6987010000000000
+    imagelm: 9588010000000000
+    imagem: 3188010001000000
+    imagerm: cd87010000000000
+    imager: 0587010000000000
+    bgm: 200001
+    sfx: 0
+    voice: 0
+    gallery: 0
+  - id: 10015
+    description: 
+    bg: 2001
+    character: 1005
+    text: 1000150
+    effect: 0
+    nextid: 10018
+    select1: 0
+    select1nextid: 0
+    select1effect: 
+    select2: 0
+    select2nextid: 0
+    select2effect: 
+    select3: 0
+    select3nextid: 0
+    select3effect: 
+    imagel: 6987010000000000
+    imagelm: 9588010001000000
+    imagem: 3188010000000000
+    imagerm: cd87010000000000
+    imager: 0587010000000000
+    bgm: 200001
+    sfx: 0
+    voice: 0
+    gallery: 0
+  - id: 10016
+    description: 
+    bg: 2001
+    character: 1004
+    text: 1000160
+    effect: 1
+    nextid: 10018
+    select1: 0
+    select1nextid: 0
+    select1effect: 
+    select2: 0
+    select2nextid: 0
+    select2effect: 
+    select3: 0
+    select3nextid: 0
+    select3effect: 
+    imagel: 6987010000000000
+    imagelm: 9588010000000000
+    imagem: 3188010001000000
+    imagerm: cd87010000000000
+    imager: 0587010000000000
+    bgm: 200001
+    sfx: 210001
+    voice: 0
+    gallery: 106
+  - id: 10017
+    description: 
+    bg: 2001
+    character: 1003
+    text: 1000170
+    effect: 0
+    nextid: 10018
+    select1: 0
+    select1nextid: 0
+    select1effect: 
+    select2: 0
+    select2nextid: 0
+    select2effect: 
+    select3: 0
+    select3nextid: 0
+    select3effect: 
+    imagel: 6987010000000000
+    imagelm: 9588010000000000
+    imagem: 3188010000000000
+    imagerm: cd87010001000000
+    imager: 0587010000000000
+    bgm: 200001
+    sfx: 0
+    voice: 0
+    gallery: 0
+  - id: 10018
+    description: 
+    bg: 2001
+    character: 1002
+    text: 1000180
+    effect: 0
+    nextid: 10019
+    select1: 0
+    select1nextid: 0
+    select1effect: 
+    select2: 0
+    select2nextid: 0
+    select2effect: 
+    select3: 0
+    select3nextid: 0
+    select3effect: 
+    imagel: 6987010001000000
+    imagelm: 9588010000000000
+    imagem: 3188010000000000
+    imagerm: cd87010000000000
+    imager: 0587010000000000
+    bgm: 200001
+    sfx: 0
+    voice: 0
+    gallery: 107
+  - id: 10019
+    description: 
+    bg: 2001
+    character: 1001
+    text: 1000190
+    effect: 0
+    nextid: 10020
+    select1: 0
+    select1nextid: 0
+    select1effect: 
+    select2: 0
+    select2nextid: 0
+    select2effect: 
+    select3: 0
+    select3nextid: 0
+    select3effect: 
+    imagel: 6987010000000000
+    imagelm: 9588010000000000
+    imagem: 3188010000000000
+    imagerm: cd87010000000000
+    imager: 0587010001000000
+    bgm: 200001
+    sfx: 0
+    voice: 0
+    gallery: 0
+  - id: 10020
+    description: 
+    bg: 2001
+    character: 1004
+    text: 1000200
+    effect: 0
+    nextid: 10021
+    select1: 0
+    select1nextid: 0
+    select1effect: 
+    select2: 0
+    select2nextid: 0
+    select2effect: 
+    select3: 0
+    select3nextid: 0
+    select3effect: 
+    imagel: 6987010000000000
+    imagelm: 9588010000000000
+    imagem: 3188010001000000
+    imagerm: cd87010000000000
+    imager: 0587010000000000
+    bgm: 200001
+    sfx: 0
+    voice: 0
+    gallery: 108
+  - id: 10021
+    description: 
+    bg: 2004
+    character: 0
+    text: 1100010
+    effect: 2
+    nextid: 0
+    select1: 0
+    select1nextid: 0
+    select1effect: 
+    select2: 0
+    select2nextid: 0
+    select2effect: 
+    select3: 0
+    select3nextid: 0
+    select3effect: 
+    imagel: 
+    imagelm: 
+    imagem: 
+    imagerm: 
+    imager: 
+    bgm: 200001
+    sfx: 0
+    voice: 0
+    gallery: 109

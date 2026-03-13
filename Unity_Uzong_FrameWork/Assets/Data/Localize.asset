@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7cdd45f2ddc5cef4e8ed7346cc506ea4, type: 3}
+  m_Name: Localize
+  m_EditorClassIdentifier: 
+  SheetName: Assets/Data/SpreadsheetCache/Data.xlsx
+  WorksheetName: Localize
+  dataArray:
+  - id: 1001
+    kr: "\uCE58\uD788\uB85C"
+    en: Chihiro
+    jp: "\u30C1\u30D2\u30ED"
+  - id: 1002
+    kr: "\uB178\uC544"
+    en: Noa
+    jp: "\u30CE\u30A2"
+  - id: 1003
+    kr: "\uCF54\uD0C0\uB9C8"
+    en: Kotama
+    jp: "\u30B3\u30BF\u30DE"
+  - id: 1004
+    kr: "\uCF54\uC720\uD0A4"
+    en: Koyuki
+    jp: "\u30B3\u30E6\u30AD"
+  - id: 1005
+    kr: "\uB9C8\uD0A4"
+    en: Maki
+    jp: "\u30DE\u30AD"
+  - id: 1101
+    kr: "\uBCA0\uB9AC\uD0C0\uC2A4"
+    en: Veritas
+    jp: "\u30F4\u30A7\u30EA\u30BF\u30B9"
+  - id: 1102
+    kr: "\uC138\uBBF8\uB098"
+    en: Seminar
+    jp: "\u30BB\u30DF\u30CA\u30FC"
+  - id: 2001
+    kr: "OO\uC758 \uBC29"
+    en: OO's Room
+    jp: "OO\u306E\u90E8\u5C4B"
+  - id: 2002
+    kr: "OO\uC758 \uBC29"
+    en: OO's Room
+    jp: "OO\u306E\u90E8\u5C4B"
+  - id: 2003
+    kr: "OO\uC758 \uBC29"
+    en: OO's Room
+    jp: "OO\u306E\u90E8\u5C4B"
+  - id: 2004
+    kr: CG
+    en: CG
+    jp: CG

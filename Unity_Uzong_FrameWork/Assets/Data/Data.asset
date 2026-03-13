@@ -1,0 +1,156 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 80e14a72067f1ad408ec8d661bc560ce, type: 3}
+  m_Name: Data
+  m_EditorClassIdentifier: 
+  templatePath: QuickSheet/ExcelPlugin/Templates
+  scriptFilePath: Data/Runtime
+  editorScriptFilePath: Data/Editor
+  sheetName: Spreadsheet-1rpaZ5r9B0-h0EC9Xdu22Iq2RLIArGCx6FJ4l1r5Z_44
+  workSheetName: Story
+  columnHeaderList:
+  - type: 0
+    name: ID
+    isEnable: 0
+    isArray: 0
+  - type: 0
+    name: Description
+    isEnable: 0
+    isArray: 0
+  - type: 0
+    name: BG
+    isEnable: 0
+    isArray: 0
+  - type: 0
+    name: Character
+    isEnable: 0
+    isArray: 0
+  - type: 0
+    name: Text
+    isEnable: 0
+    isArray: 0
+  - type: 0
+    name: Effect
+    isEnable: 0
+    isArray: 0
+  - type: 0
+    name: NextID
+    isEnable: 0
+    isArray: 0
+  - type: 0
+    name: Select1
+    isEnable: 0
+    isArray: 0
+  - type: 0
+    name: Select1NextID
+    isEnable: 0
+    isArray: 0
+  - type: 0
+    name: Select1Effect
+    isEnable: 0
+    isArray: 0
+  - type: 0
+    name: Select2
+    isEnable: 0
+    isArray: 0
+  - type: 0
+    name: Select2NextID
+    isEnable: 0
+    isArray: 0
+  - type: 0
+    name: Select2Effect
+    isEnable: 0
+    isArray: 0
+  - type: 0
+    name: Select3
+    isEnable: 0
+    isArray: 0
+  - type: 0
+    name: Select3NextID
+    isEnable: 0
+    isArray: 0
+  - type: 0
+    name: Select3Effect
+    isEnable: 0
+    isArray: 0
+  - type: 0
+    name: ImageL
+    isEnable: 0
+    isArray: 0
+  - type: 0
+    name: ImageLM
+    isEnable: 0
+    isArray: 0
+  - type: 0
+    name: ImageM
+    isEnable: 0
+    isArray: 0
+  - type: 0
+    name: ImageRM
+    isEnable: 0
+    isArray: 0
+  - type: 0
+    name: ImageR
+    isEnable: 0
+    isArray: 0
+  - type: 0
+    name: BGM
+    isEnable: 0
+    isArray: 0
+  - type: 0
+    name: SFX
+    isEnable: 0
+    isArray: 0
+  - type: 0
+    name: Voice
+    isEnable: 0
+    isArray: 0
+  - type: 0
+    name: Gallery
+    isEnable: 0
+    isArray: 0
+  DataSource: 1
+  excelFilePath: Assets/Data/SpreadsheetCache/Data.xlsx
+  spreadsheetUrl: https://docs.google.com/spreadsheets/d/1rpaZ5r9B0-h0EC9Xdu22Iq2RLIArGCx6FJ4l1r5Z_44/edit?gid=266039572#gid=266039572
+  ManagedSheets:
+  - SheetName: Param
+    AssetPath: Assets/Data/Param.asset
+    LastStatus: OK
+  - SheetName: Localize
+    AssetPath: Assets/Data/Localize.asset
+    LastStatus: OK
+  - SheetName: LocalizeStory
+    AssetPath: Assets/Data/LocalizeStory.asset
+    LastStatus: OK
+  - SheetName: Place
+    AssetPath: Assets/Data/Place.asset
+    LastStatus: OK
+  - SheetName: LocalizeEnvi
+    AssetPath: Assets/Data/LocalizeEnvi.asset
+    LastStatus: OK
+  - SheetName: Story
+    AssetPath: Assets/Data/Story.asset
+    LastStatus: OK
+  - SheetName: Gallery
+    AssetPath: Assets/Data/Gallery.asset
+    LastStatus: OK
+  SheetNames:
+  - Param
+  - Story
+  - Place
+  - Character
+  - Gallery
+  - LocalizeEnvi
+  - Localize
+  - LocalizeStory
+  - Resource
+  currentSelectedSheet: 1

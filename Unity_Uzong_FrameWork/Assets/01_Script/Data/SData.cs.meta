@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: fefb66f17ef2bb943babed0e1f414c98
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - storyData: {instanceID: 0}
+  - paramData: {instanceID: 0}
+  - characterData: {instanceID: 0}
+  - placeData: {instanceID: 0}
+  - localizeEnviData: {instanceID: 0}
+  - localizeData: {instanceID: 0}
+  - localizeStoryData: {instanceID: 0}
+  - resourceData: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

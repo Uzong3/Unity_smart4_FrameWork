@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f3dcecb96f161f4e8433314f5abf994, type: 3}
+  m_Name: Place
+  m_EditorClassIdentifier: 
+  SheetName: Assets/Data/SpreadsheetCache/Data.xlsx
+  WorksheetName: Place
+  dataArray:
+  - id: 2001
+    description: "\uC9D1 (\uB0AE)"
+    name: 2001
+    resource: 2001
+  - id: 2002
+    description: "\uC9D1 (\uBC24)"
+    name: 2002
+    resource: 2002
+  - id: 2003
+    description: "\uC9D1 (\uBC242)"
+    name: 2003
+    resource: 2003
+  - id: 2004
+    description: "CG\uD14C\uC2A4\uD2B8"
+    name: 2004
+    resource: 2004
