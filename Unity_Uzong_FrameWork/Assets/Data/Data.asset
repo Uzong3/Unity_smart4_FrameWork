@@ -15,7 +15,7 @@ MonoBehaviour:
   templatePath: QuickSheet/ExcelPlugin/Templates
   scriptFilePath: Data/Runtime
   editorScriptFilePath: Data/Editor
-  sheetName: Spreadsheet-1rpaZ5r9B0-h0EC9Xdu22Iq2RLIArGCx6FJ4l1r5Z_44
+  sheetName: Spreadsheet-1-X1M9n85S-fHNgfjPERaML4PJx8JcB8YywVNf56pjeE
   workSheetName: Story
   columnHeaderList:
   - type: 0
@@ -120,7 +120,7 @@ MonoBehaviour:
     isArray: 0
   DataSource: 1
   excelFilePath: Assets/Data/SpreadsheetCache/Data.xlsx
-  spreadsheetUrl: https://docs.google.com/spreadsheets/d/1rpaZ5r9B0-h0EC9Xdu22Iq2RLIArGCx6FJ4l1r5Z_44/edit?gid=266039572#gid=266039572
+  spreadsheetUrl: https://docs.google.com/spreadsheets/d/1-X1M9n85S-fHNgfjPERaML4PJx8JcB8YywVNf56pjeE/edit?usp=sharing
   ManagedSheets:
   - SheetName: Param
     AssetPath: Assets/Data/Param.asset

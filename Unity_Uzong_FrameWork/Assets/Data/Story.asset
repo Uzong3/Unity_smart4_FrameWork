@@ -18,8 +18,8 @@ MonoBehaviour:
   - id: 10001
     description: 
     bg: 2001
-    character: 1001
-    text: 1000010
+    character: 0
+    text: 1900000
     effect: 0
     nextid: 10002
     select1: 0
@@ -31,7 +31,7 @@ MonoBehaviour:
     select3: 0
     select3nextid: 0
     select3effect: 
-    imagel: 6987010000000000
+    imagel: 
     imagelm: 9588010000000000
     imagem: 3188010000000000
     imagerm: cd87010000000000
